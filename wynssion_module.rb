@@ -76,10 +76,10 @@ def mission_brief
 	mission_logo
 	say("\nAt 1am ET time Saturday night, the largest heist of all-time was conducted at the LAB Miami.")
 	sleep_count(4)
-	puts "\nAccording to our intel it has been alerted that.....all the DARK DOG at the LAB has been stolen." 
+	puts "\nAccording to our intel.....all the DARK DOG ENERGY DRINK at the LAB has been stolen." 
 	sleep_count(4)
 	puts "\nYour mission is to find and retrieve the stolen stash of DARK DOG ENERGY DRINK..."
-	sleep_count(4)
+	sleep_count(3)
 	say("\nand restore humanity at the LAB.")
 
 	print "\n\nAre you willing to accept this mission Agent #{$username}? (Y/N)? "

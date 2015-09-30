@@ -307,6 +307,7 @@ def interrogation_game_round_2
 		puts "\t\t\t\tLADYFEST: Look into the one they call......ED TORO"
 		seperator(17)
 		sleep_count(2)
+		clear
 		interrogation_game_round_2
 	elsif option_select_2 == "b"
 		puts "PUNCH!"
@@ -319,6 +320,7 @@ def interrogation_game_round_2
 		puts "\t\t\t\tLADYFEST: HaHaHa! You have nothing on me!"
 		seperator(17)
 		sleep_count(2)
+		clear
 		interrogation_game_round_2
 	elsif option_select_2 == "c"
 		seperator(17)
